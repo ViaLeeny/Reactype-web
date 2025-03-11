@@ -93,7 +93,7 @@ const Feedbacks: React.FC<Props> = ({ isCompInMiddle }) => {
               Dive into ReacType{" "}
             </span>
             <motion.div>
-              <a href="https://app.reactype.dev/#/login">
+              <a href="http://reactype.us-east-1.elasticbeanstalk.com/#/login">
                 <ArrowOutward
                   sx={{
                     color: "#0671e3",

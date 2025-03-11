@@ -220,7 +220,7 @@ const TestCar = () => {
             </div>
             <div className="mr-auto">
               <a
-                href="https://app.reactype.dev/#/login"
+                href="http://reactype.us-east-1.elasticbeanstalk.com/#/login"
                 className="text-[#2997ff] text-[19px] hover:underline"
               >
                 Try Here{" "}
